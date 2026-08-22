@@ -17,7 +17,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=1800&pause=600&color=00C6FF&center=true&vCenter=true&width=700&lines=🚗+START+YOUR+ENGINE;💨+RACE+THROUGH+THE+OBSTACLES;🌀+CONTROL+YOUR+CAR+IN+THE+AIR;🏁+REACH+THE+FINISH;🔥+DON'T+FLIP!" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=1800&pause=600&color=00C6FF&center=true&vCenter=true&width=700&lines=🚗+START+YOUR+ENGINE;💨+RACE+THROUGH+THE+OBSTACLES;🌀+CONTROL+YOUR+CAR+IN+THE+AIR;🏁+REACH+THE+FINISH;🔥+DON'T+FLIP!" /> -->
 
 </div>
 
