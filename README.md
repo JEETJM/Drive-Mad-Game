@@ -217,7 +217,7 @@ GitHub Repository
 
 ### Live
 
-**https://jeetjm.github.io/Drive-Mad-Game/**
+https://drive-mad-game-theta.vercel.app/
 
 ---
 
